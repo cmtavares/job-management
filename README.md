@@ -33,7 +33,7 @@ This is a Spring Boot application that allows for the management of Human Resour
 4. Start the application:
 
     ```shell
-        mvn spring-boot:run
+    mvn spring-boot:run
     ```
 
 The application should now be running at http://localhost:8080.
@@ -55,6 +55,6 @@ curl --location --request POST 'http://localhost:8080/candidate/' \
     "name": "Jose de Souza",
     "email": "jose@gmail.com",
     "password": "1234567890",
-    "description": "Desenvolvedora Java Junior em busca da primeira oportunidade."
+    "description": "Junior Java Developer looking for the first opportunity."
 }'
 ```
