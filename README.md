@@ -16,7 +16,7 @@ This is a Spring Boot application that allows for the management of Human Resour
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/cmtavares/job_management.git
+   git clone https://github.com/cmtavares/job-management.git
    ```
 
 2. Configure the database by editing the application.properties file and providing the necessary settings:
